@@ -1,4 +1,4 @@
-namespace VS.Domain.Interfaces;
+namespace VS.Application.Interfaces;
 
 public interface IMotorService
 {

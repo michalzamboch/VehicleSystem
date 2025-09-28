@@ -1,6 +1,3 @@
-﻿
-using VS.Application;
-
-Console.WriteLine("Hello, World!");
+﻿using VS.Application;
 
 var vehicle = ApplicationBuilder.CreateVehicle();

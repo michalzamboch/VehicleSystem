@@ -1,6 +1,6 @@
-using VS.Domain.Interfaces;
+using VS.Application.Interfaces;
 
-namespace VS.Domain.Services;
+namespace VS.Application.Services;
 
 internal sealed class MotorService : IMotorService
 {
