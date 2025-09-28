@@ -2,7 +2,7 @@ using VS.Application.Interfaces;
 
 namespace VS.Application.Services;
 
-internal sealed class MotorService : IMotorService
+internal sealed class EngineService : IEngineService
 {
     
 }
